@@ -1,20 +1,21 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 /**
- * main - Entry point
- * Description:  printf digit
- * Return: Always 0
+ * main - Prints the alphabet in lowercase, except for q and e.
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
-	int i = '0';
+	char letter;
 
-	while (i <= '9')
+	for (letter = 'a'; letter <= 'z'; letter++)
 	{
-		putchar(i);
-		i++;
+		if (letter != 'e' && letter != 'q')
+			putchar(letter);
 	}
+
 	putchar('\n');
+
 	return (0);
 }
