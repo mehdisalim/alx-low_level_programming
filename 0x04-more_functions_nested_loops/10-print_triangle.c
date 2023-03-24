@@ -4,6 +4,7 @@
 
 /**
  * print_triangle - entry point
+ * Description: Prints diagonals
  * Return: void
  */
 
