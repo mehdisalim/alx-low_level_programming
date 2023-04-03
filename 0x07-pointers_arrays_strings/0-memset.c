@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * The memset() function writes len bytes of value c (converted to an unsigned char) to the string b
+ * _memset - function writes len bytes of value c (converted to an unsigned char) to the string b
  * @s: the memory will be replaced by @b
  * @n: the size of the memory will be changed
  *
