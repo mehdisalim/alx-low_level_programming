@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * _memset - function writes len bytes of value c (converted to an unsigned char) to the string b
- * @s: the memory will be replaced by @b
- * @n: the size of the memory will be changed
+ * _memset - fill a block of memory
+ * @s: starting address of memory
+ * @b: the desired value
+ * @n: member of bytes to be changed
  *
- * Return: Returns a pointer to the memory area s
+ * Return: Always value
  */
-
 char *_memset(char *s, char b, unsigned int n)
 {
     if (n == 0)
