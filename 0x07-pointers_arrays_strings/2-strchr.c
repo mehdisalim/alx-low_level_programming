@@ -2,8 +2,7 @@
 
 /**
  *_strchr - locates a character in a string
- *@s: the string to search
- *@c: the character to locate
+ *created By: mehdi salim
  *Return: returns a pointer to the first occurence or NULL  if not found
  */
 
