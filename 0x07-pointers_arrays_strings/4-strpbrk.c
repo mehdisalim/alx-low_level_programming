@@ -2,8 +2,7 @@
 
 /**
  *is_char_in_str - checks if a character is in a string
- *@s: the string to check
- *@c: the character to look for
+ *created By: mehdi salim
  *Return: returns 1 if the character exists else returns 0
  */
 
@@ -22,8 +21,7 @@ int is_char_in_str(char *s, char c)
 
 /**
  *_strpbrk - searches a string for any of a set of bytes
- *@s: the string in hand
- *@accept: accepted chararcters
+ *created By: mehdi salim
  *Return: Returns a pointer to the byte that matches
  */
 
