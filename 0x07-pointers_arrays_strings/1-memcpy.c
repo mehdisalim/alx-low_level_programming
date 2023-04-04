@@ -2,7 +2,9 @@
 
 /**
  *_memcpy - copies memory area
- *created By: mehdi salim
+ *@dest: destination memory area
+ *@src: source memory area
+ *@n: number of bytes to copy
  *Return: returns a pointer to des
  */
 

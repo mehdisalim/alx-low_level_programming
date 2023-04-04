@@ -2,7 +2,8 @@
 
 /**
  *is_char_in_str - checks if a character is in a string
- *created By: mehdi salim
+ *@s: the string to check
+ *@c: the character to look for
  *Return: returns 1 if the character exists else returns 0
  */
 
@@ -21,7 +22,8 @@ int is_char_in_str(char *s, char c)
 
 /**
  *_strspn - gets the length of a prefix substring
- *created By: mehdi salim
+ *@s: the string in hand
+ *@accept: accepted chararcters
  *Return: Returns an unsigned int
  */
 
