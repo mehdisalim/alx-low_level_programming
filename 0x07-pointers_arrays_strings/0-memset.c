@@ -2,9 +2,7 @@
 
 /**
  *_memset - fills memory with a constant byte
- *@s: a pointer to the memory block to fill
- *@b: the constant byte
- *@n: number of bytes  to fill
+ *created By: mehdi salim
  *Return: returns a pointer to the memory areq
  */
 
