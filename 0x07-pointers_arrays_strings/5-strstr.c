@@ -2,9 +2,7 @@
 
 /**
  *_strncmp - compares two strings
- *@s1: first string
- *@s2: second string
- *@n: number of bytes to compare
+ *created By: mehdi salim
  *Return: 0 if equal, 1 if s1 > s2 else -1
  */
 
@@ -23,8 +21,7 @@ int	_strncmp(char *s1, char *s2, unsigned int n)
 
 /**
  *_strstr - locates a substring
- *@haystack: the string to search
- *@needle: the substring to look for in haystack
+ *created By: mehdi salim
  *Return: returns a pointer to the neeldle else NULL
  */
 
