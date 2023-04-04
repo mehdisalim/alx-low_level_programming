@@ -2,7 +2,8 @@
 
 /**
  *set_string - sets the value of a string to a char
- *created By: mehdi salim
+ *@s: the string in hand
+ *@to: what to change it to
  *Return: returns nothing its void
  */
 

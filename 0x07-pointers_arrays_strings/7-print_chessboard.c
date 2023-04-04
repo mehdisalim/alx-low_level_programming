@@ -2,7 +2,7 @@
 
 /**
  *print_chessboard - prints a chess board
- *created By: mehdi salim
+ *@a: an array of pointers
  *Return: nothing void
  */
 

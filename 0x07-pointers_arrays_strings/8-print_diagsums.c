@@ -2,7 +2,8 @@
 
 /**
  *print_diagsums - prints the sum of the two diagonals of a matrix
- *created By: mehdi salim
+ *@a: a pointer to the array
+ *@size: the size of the array
  *Return: void, returns nothing
  */
 
