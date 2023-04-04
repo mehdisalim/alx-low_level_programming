@@ -1,1 +1,1 @@
-more pointers, arrays and strings
+0x07-POINTERS_ARRAYS_STRINGS
